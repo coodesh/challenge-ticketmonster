@@ -1,0 +1,18 @@
+# Binaries
+ticketmonster
+
+# Go builds
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Vendor
+vendor/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment files
+.env
