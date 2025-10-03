@@ -23,8 +23,7 @@ A simple backend service in Go for managing movies, showtimes and seat reservati
    git clone <repository-url>
    cd ticketmonster
    ```
-2. Copy `.env.example` to `.env` and fill in suas configurações.
-- Ajuste `DB_HOST=db` para uso com Docker Compose.
+2. Copy `.env.example` to `.env` and update settings.
 3. Install dependencies:
    ```bash
    go mod tidy
